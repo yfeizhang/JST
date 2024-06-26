@@ -1,0 +1,10 @@
+pip install h5py
+pip install munkres
+pip install geomloss
+pip install POT
+pip install seaborn
+pip install adjustText
+pip install imageio
+pip install plotly
+pip install wandb
+pip install pykeops
